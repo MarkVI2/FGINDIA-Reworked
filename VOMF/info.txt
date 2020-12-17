@@ -1,0 +1,2 @@
+This folder contains airports for the VOMF sector. 
+Check AIM resources to know more about the sector.
