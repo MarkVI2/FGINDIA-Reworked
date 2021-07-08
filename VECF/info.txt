@@ -1,2 +1,0 @@
-This folder contains airports for the VECF sector. 
-Check AIM resources to know more about the sector.
